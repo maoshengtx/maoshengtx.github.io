@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>茂盛同学</title>
-        <link>https://maoshengtx.github.io/</link>
+        <link>https://maoshengtx.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.115.3 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 18 Sep 2023 01:05:36 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 23:51:23 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://maoshengtx.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://maoshengtx.com/rss.xml" />
         
         
     </channel>
